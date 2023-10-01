@@ -16,11 +16,11 @@ We have a map with `n` rows and `m` columns, featuring an agent at the starting 
 
 This project involves the following objectives:
 1. Define the terms 'Agent' and 'State' in the context of AI search strategies.
-2. Implement A\* (A-Star) algorithm.
-3. Implement BFS (Breadth-First Search).
-4. Implement IDS (Iterative Deepening Depth-First Search).
-5. Define a heuristic function.
-6. Define an evaluation function.
+2. Define a heuristic function.
+3. Define an evaluation function.
+4. Implement A\* (A-Star) algorithm.
+5. Implement BFS (Breadth-First Search).
+6. Implement IDS (Iterative Deepening Depth-First Search).
 
 
 Through these objectives, we aim to explore and apply a range of AI search algorithms for the given problem, gaining insights into their performance and effectiveness.
